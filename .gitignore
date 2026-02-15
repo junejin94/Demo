@@ -1,0 +1,20 @@
+# Xcode
+*.xcuserdata
+xcuserdata/
+*.xcscmblueprint
+DerivedData/
+.swiftpm
+.build/
+
+# Build
+build/
+
+# OS
+.DS_Store
+
+# Dependencies
+Packages/
+*.xcframework
+
+# Test Reports
+TestReports/
