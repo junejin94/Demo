@@ -1,6 +1,6 @@
 # Demo
 
-A SwiftUI demo app showcasing the CorePresentation Banner system.
+A SwiftUI demo app showcasing multiple core frameworks, with a current focus on the CorePresentation Banner system.
 
 ## Requirements
 
